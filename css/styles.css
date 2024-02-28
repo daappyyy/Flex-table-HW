@@ -77,24 +77,15 @@ body{
 .flex{
     display: flex;
 }
-.first-box{
-	outline: 2px solid red;
+.bg-pink{
 	background-color: pink;
 }
-.second-box{
-	outline: 2px solid red;
+.bg-green{
 	background-color: rgb(92, 211, 79);
 }
-.third-box{
-	outline: 2px solid red;
+.bg-mustard{
 	background-color: rgb(231, 201, 51);
 }
-.third-box div{
-	outline: 2px solid red;
-}
-.first-box div{
-	outline: 2px solid red;
-}
-.second-box div{
+.outline{
 	outline: 2px solid red;
 }
